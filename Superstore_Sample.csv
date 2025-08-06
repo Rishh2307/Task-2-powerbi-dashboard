@@ -1,0 +1,51 @@
+Order ID,Order Date,Ship Date,Customer Name,Segment,Country,City,State,Region,Product Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-1000,2025-02-10,2025-02-14,Roger Brown,Corporate,United States,Columbus,Ohio,Central,Technology,Accessories,Accessories - Benefit,702.9,5,0.0,200.45
+CA-1001,2025-04-15,2025-04-19,Mandy Kennedy,Corporate,United States,Houston,Texas,East,Technology,Accessories,Accessories - Good,432.59,2,0.1,84.92
+CA-1002,2024-09-04,2024-09-09,Joy Huerta,Consumer,United States,Los Angeles,California,West,Technology,Machines,Machines - Build,222.43,4,0.1,28.37
+CA-1003,2025-04-22,2025-04-25,Kaitlin Patrick,Corporate,United States,Los Angeles,California,East,Office Supplies,Labels,Labels - Prevent,913.77,9,0.2,70.76
+CA-1004,2025-08-02,2025-08-08,Margaret Burnett,Consumer,United States,Miami,Florida,West,Technology,Phones,Phones - Room,346.38,8,0.0,33.13
+CA-1005,2025-02-10,2025-02-15,Andrea Garcia,Home Office,United States,Los Angeles,California,Central,Furniture,Chairs,Chairs - Tax,398.77,8,0.2,72.89
+CA-1006,2025-02-24,2025-03-02,Beverly Smith,Corporate,United States,Chicago,Illinois,South,Office Supplies,Binders,Binders - Economic,384.79,4,0.2,68.32
+CA-1007,2024-11-24,2024-11-26,Kelly Cooke,Consumer,United States,Atlanta,Georgia,West,Furniture,Bookcases,Bookcases - Record,929.99,3,0.2,167.76
+CA-1008,2025-04-14,2025-04-19,Debra Martin,Home Office,United States,Los Angeles,California,East,Technology,Machines,Machines - Theory,649.7,10,0.1,36.69
+CA-1009,2024-12-03,2024-12-06,Jeremiah Palmer,Consumer,United States,Houston,Texas,Central,Technology,Phones,Phones - A,931.41,9,0.0,130.15
+CA-1010,2024-09-16,2024-09-19,Katie Collier,Home Office,United States,Columbus,Ohio,South,Technology,Machines,Machines - Address,758.85,2,0.1,35.01
+CA-1011,2025-01-09,2025-01-12,Daniel Wilson,Consumer,United States,Houston,Texas,East,Furniture,Bookcases,Bookcases - Whole,399.65,4,0.1,26.4
+CA-1012,2024-11-30,2024-12-06,Beth Hamilton,Consumer,United States,New York,New York,West,Furniture,Chairs,Chairs - Far,411.38,4,0.1,70.72
+CA-1013,2024-10-07,2024-10-11,Ashley Pierce,Home Office,United States,Miami,Florida,East,Office Supplies,Storage,Storage - Cause,856.59,6,0.1,156.78
+CA-1014,2025-03-26,2025-04-02,Marc Murray,Home Office,United States,Columbus,Ohio,East,Furniture,Furnishings,Furnishings - Player,209.38,8,0.2,8.85
+CA-1015,2024-12-21,2024-12-28,Holly Hernandez,Corporate,United States,Houston,Texas,West,Furniture,Furnishings,Furnishings - Seven,639.21,2,0.0,145.43
+CA-1016,2025-02-18,2025-02-19,Colin Gibson,Consumer,United States,Atlanta,Georgia,South,Technology,Accessories,Accessories - Brother,286.27,10,0.0,17.01
+CA-1017,2025-03-24,2025-03-26,Ellen Rodriguez,Corporate,United States,Chicago,Illinois,South,Furniture,Chairs,Chairs - Until,164.56,5,0.0,18.07
+CA-1018,2025-03-28,2025-03-31,Douglas Morris,Home Office,United States,Miami,Florida,Central,Furniture,Chairs,Chairs - Then,940.8,9,0.1,102.59
+CA-1019,2025-05-08,2025-05-14,Lauren Kent,Consumer,United States,Chicago,Illinois,West,Office Supplies,Paper,Paper - Head,546.08,8,0.0,91.89
+CA-1020,2025-03-30,2025-03-31,Michael Brown,Home Office,United States,Houston,Texas,South,Office Supplies,Storage,Storage - Word,285.56,5,0.1,45.55
+CA-1021,2024-08-24,2024-08-31,Barbara Kent,Consumer,United States,Columbus,Ohio,South,Furniture,Chairs,Chairs - Pass,81.22,3,0.2,17.16
+CA-1022,2025-04-24,2025-04-27,Christopher Walker MD,Home Office,United States,Columbus,Ohio,West,Technology,Phones,Phones - Help,862.01,6,0.2,161.85
+CA-1023,2025-03-23,2025-03-28,Kelly Daugherty,Corporate,United States,Chicago,Illinois,East,Office Supplies,Paper,Paper - Economic,150.5,6,0.2,10.55
+CA-1024,2024-10-10,2024-10-14,Samantha Terrell,Consumer,United States,Houston,Texas,Central,Technology,Phones,Phones - Commercial,56.07,5,0.2,9.95
+CA-1025,2025-01-21,2025-01-24,Kathy Randolph,Home Office,United States,Columbus,Ohio,West,Furniture,Chairs,Chairs - Approach,404.6,10,0.1,103.21
+CA-1026,2025-02-28,2025-03-04,Jennifer Lewis,Consumer,United States,Atlanta,Georgia,South,Technology,Phones,Phones - Unit,617.19,8,0.0,101.89
+CA-1027,2024-12-12,2024-12-18,Travis Ferguson,Home Office,United States,Los Angeles,California,Central,Office Supplies,Paper,Paper - Language,650.0,6,0.0,126.18
+CA-1028,2025-02-13,2025-02-16,Laura Phillips,Consumer,United States,Miami,Florida,South,Technology,Machines,Machines - Minute,21.92,2,0.2,4.85
+CA-1029,2025-03-20,2025-03-22,Jessica Garrett,Consumer,United States,Miami,Florida,South,Office Supplies,Storage,Storage - Role,628.07,6,0.2,35.57
+CA-1030,2025-04-18,2025-04-19,Julie Odom,Home Office,United States,New York,New York,West,Furniture,Bookcases,Bookcases - Really,821.87,4,0.0,125.18
+CA-1031,2025-02-11,2025-02-17,Leah Davis,Home Office,United States,New York,New York,Central,Office Supplies,Labels,Labels - Lose,825.11,9,0.0,130.51
+CA-1032,2025-06-19,2025-06-24,Paige Doyle,Home Office,United States,Houston,Texas,West,Office Supplies,Binders,Binders - Create,941.89,9,0.2,115.76
+CA-1033,2024-10-21,2024-10-24,John Jackson,Corporate,United States,New York,New York,East,Office Supplies,Binders,Binders - Remember,289.43,8,0.2,54.14
+CA-1034,2025-07-20,2025-07-26,Mark Walker,Corporate,United States,New York,New York,South,Technology,Copiers,Copiers - Production,334.07,3,0.1,30.02
+CA-1035,2025-05-20,2025-05-26,Ian Harris,Home Office,United States,Los Angeles,California,East,Furniture,Tables,Tables - Experience,874.87,2,0.1,110.27
+CA-1036,2025-01-17,2025-01-24,Katelyn Williams,Corporate,United States,New York,New York,South,Furniture,Bookcases,Bookcases - Risk,225.97,7,0.2,46.17
+CA-1037,2024-10-30,2024-11-03,Travis Raymond,Home Office,United States,Los Angeles,California,Central,Office Supplies,Labels,Labels - Should,110.98,9,0.0,13.86
+CA-1038,2025-01-07,2025-01-10,Lisa Barry,Consumer,United States,Chicago,Illinois,Central,Office Supplies,Storage,Storage - Enjoy,852.76,8,0.0,124.05
+CA-1039,2024-11-12,2024-11-18,Dana Richardson,Home Office,United States,Columbus,Ohio,East,Office Supplies,Storage,Storage - Modern,854.11,9,0.1,163.51
+CA-1040,2024-11-13,2024-11-14,Jesse White,Home Office,United States,Chicago,Illinois,South,Technology,Phones,Phones - Mouth,343.85,1,0.1,42.33
+CA-1041,2024-11-29,2024-12-02,Steven Allen,Home Office,United States,Houston,Texas,South,Technology,Machines,Machines - Energy,196.8,10,0.1,28.76
+CA-1042,2025-08-02,2025-08-05,Laura Garner,Corporate,United States,Los Angeles,California,East,Technology,Machines,Machines - Political,306.93,9,0.2,19.6
+CA-1043,2024-09-20,2024-09-23,Monique Perkins,Consumer,United States,Miami,Florida,South,Office Supplies,Binders,Binders - Detail,550.16,5,0.1,138.89
+CA-1044,2024-09-10,2024-09-15,Chad King,Corporate,United States,New York,New York,South,Office Supplies,Storage,Storage - Rise,686.27,10,0.0,204.91
+CA-1045,2025-01-18,2025-01-22,Kimberly Rodriguez,Consumer,United States,Atlanta,Georgia,East,Technology,Copiers,Copiers - If,541.34,5,0.2,94.44
+CA-1046,2024-10-05,2024-10-12,Phillip Ponce,Home Office,United States,Atlanta,Georgia,West,Technology,Accessories,Accessories - Major,351.51,9,0.1,48.72
+CA-1047,2024-08-18,2024-08-20,Erin Williams,Home Office,United States,Atlanta,Georgia,South,Technology,Accessories,Accessories - Several,458.84,1,0.1,93.25
+CA-1048,2025-01-22,2025-01-27,Victoria Brown,Corporate,United States,New York,New York,East,Technology,Copiers,Copiers - Firm,205.58,9,0.0,25.46
+CA-1049,2024-12-12,2024-12-18,Gina Williams,Home Office,United States,Houston,Texas,Central,Furniture,Bookcases,Bookcases - Agreement,221.64,1,0.2,13.48
