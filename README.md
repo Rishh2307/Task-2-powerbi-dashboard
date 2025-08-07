@@ -1,5 +1,5 @@
 # Task-2-powerbi-dashboard
-Interactive sales dashboard built in Power BI with slicers and 6 visuals for Data analyst intership 
+Interactive sales dashboard built in Power BI with slicers and 6 visuals for Data analyst internship 
 
 This is the second task for the internship — creating an interactive sales dashboard using Power BI and the Superstore dataset.
 
